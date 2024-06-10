@@ -3,4 +3,4 @@
 # 波形
 see waveform.ipynb(筹)
 # 代码来源
-本项目波形生成的框架和机器学习的模型来自于王赫老师(https://github.com/iphysresearch)所主讲的“引力波数据探索：编程与分析实战训练营”(https://github.com/iphysresearch/GWData-Bootcamp).
+本项目波形生成的框架和机器学习的模型来自于王赫老师 (https://github.com/iphysresearch) 所主讲的“引力波数据探索：编程与分析实战训练营” (https://github.com/iphysresearch/GWData-Bootcamp).
