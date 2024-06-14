@@ -8,6 +8,8 @@ see waveform.ipynb(筹)
    - [ ] 扩展到更长时间 ~$10^6$ s
    - [ ] 调研前人的方法 see [Introduction](note/Introduction.md)
 - [ ] 使用匹配滤波法与机器学习的结果对比
+   - [x] [WEAVE pipeline](note/WEAVE_pipeline.md)
+   - [ ] 使用 WEAVE pipeline 进行全相干匹配滤波
 - [ ] 利用LIGO数据进行搜索
 # 代码来源
 本项目波形生成的框架和机器学习的模型来自于王赫老师 (https://github.com/iphysresearch) 所主讲的“引力波数据探索：编程与分析实战训练营” (https://github.com/iphysresearch/GWData-Bootcamp).
