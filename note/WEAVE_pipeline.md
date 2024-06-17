@@ -31,7 +31,7 @@ Ref. [1] 原文说:
 - LALAPPS_WEAVESETUP: lalapps_WeaveSetup has been renamed to lalpulsar_WeaveSetup. 源代码可能是 https://lscsoft.docs.ligo.org/lalsuite/lalpulsar/_weave_setup_8c_source.html
 - LALAPPS_WEAVE: lalapps_Weave has been renamed to lalpulsar_Weave. 源代码可能是 https://lscsoft.docs.ligo.org/lalsuite/lalpulsar/_weave_8c_source.html
 
-这些代码是用 C 写的, 于是又在 Jupyter 上利用 dir() 函数在 lalapps 和 lalpulsar 两个包里面搜索这两个函数, 但没有找到.
+这些代码是用 C 写的, 之后又在 Jupyter 上利用 dir() 函数在 lalapps 和 lalpulsar 两个包里面搜索这两个函数, 但没有找到.
 # 搜索所需要耗费的时间
 据 Ref. [2] 所述, 使用完全相干匹配滤波(也就是N=1), 处理 $10^5$ s 和 $10^6$ s的数据, 在单个CPU核心上的搜索时间分别为 ~78天和 ~45000天!
 # 参考文献
